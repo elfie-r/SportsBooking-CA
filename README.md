@@ -5,10 +5,12 @@ Two use cases -
 1) To allow members to make a booking at any facility
 2) To check on the availability of facilities
 
+Remaining use cases coded by my teammates were not included.
+
 ### Getting started
 
-Sample.mdf is the test database built for the application. 
+SA46Team08ADatabase.bak is the test database built for the application. 
 
 1. Load the database.
 
-2. Run sample.sln using Visual Studio.
+2. Run SA46Team08ASportsFacilityBooking.sln using Visual Studio.
